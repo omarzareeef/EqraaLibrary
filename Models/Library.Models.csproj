@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Book\" />
+    <Folder Include="Blog\" />
+    <Folder Include="BookCategory\" />
+    <Folder Include="BlogCategory\" />
+    <Folder Include="Client\" />
+    <Folder Include="Branch\" />
+    <Folder Include="BookComment\" />
+    <Folder Include="Customer\" />
+	<Folder Include="Event\" />
+	<Folder Include="EventCategory\" />
+	<Folder Include="EventPost\" />
+	<Folder Include="EventPostComment\" />
+	<Folder Include="Cart\" />
+	<Folder Include="CartItem\" />
+	<Folder Include="Bargain\" />
+	<Folder Include="Role\" />
+	<Folder Include="User\" />
+	<Folder Include="Token\" />
+    <Folder Include="WishlistItem\" />
+    <Folder Include="Wishlist\" />
+    <Folder Include="Section\" />
+  </ItemGroup>
+
+</Project>
